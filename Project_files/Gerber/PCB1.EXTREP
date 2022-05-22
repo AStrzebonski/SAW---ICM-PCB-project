@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB1.GBR   16.05.2022  17:56:00
+Gerber File Extension Report For: PCB1.GBR   22.05.2022  02:36:04
 ------------------------------------------------------------------------------------------
 
 
@@ -16,6 +16,22 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Top 3D Body                             
+.GM3                Top Courtyard                           
+.GM5                Top Assembly                            
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.GM16               Top Component Center                    
+.GM20               Bottom Assembly                         
+.GM21               Bottom Courtyard                        
+.GM23               Bottom 3D Body                          
+.GM24               Bottom Component Center                 
+.GKO                Keep-Out Layer                          
+.GML                Multi-Layer                             
+.1                  Dielectric 1                            
+.2                  Dielectric 2                            
+.3                  Dielectric 3                            
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
 ------------------------------------------------------------------------------------------

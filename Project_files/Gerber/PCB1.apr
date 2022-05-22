@@ -36,5 +36,7 @@ D44   ROUNDED             7.000       7.000       0.000  LINE       0.000
 D45   ROUNDED            65.000      65.000       0.000 FLASH       0.000
 D46   RECTANGULAR        65.000      65.000       0.000 FLASH     270.000
 D47   ROUNDED            50.000      50.000       0.000 FLASH       0.000
-D48   ROUNDED             2.000       2.000       0.000  LINE       0.000
-D49   ROUNDED             2.667       2.667       0.000  LINE       0.000
+D48   ROUNDED             3.937       3.937       0.000  LINE       0.000
+D49   ROUNDED             1.968       1.968       0.000  LINE       0.000
+D50   ROUNDED             2.000       2.000       0.000  LINE       0.000
+D51   ROUNDED             2.667       2.667       0.000  LINE       0.000
